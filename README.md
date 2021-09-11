@@ -2,11 +2,11 @@
 El script te muestra los casos de covid en tu area. 
 ## Ejemplo de como se muestra.
 ![screenshoot](Screenshots/desktop.jpg)
-## Requerimientos
+## Requerimientos.
 ```
 python3
 ```
-## Instalación y uso
+## Instalación y uso.
 
 1. Instala `python3`.
 2. Mueve covid.py a la carpeta en donde tienes tus scripts configurados. (Puede ser distino para cada persona, en mi caso estan en "`~/.config/bin`").
@@ -25,7 +25,7 @@ exec = python ~/.config/bin/corona.py spain
 ## Lista de argumentos:
 
 ```
-usage: covid.py [-h] [-p provincia] [-pre prefijo] [-suf sufijo] [-ar] [-up flecha arriba] [-dw flecha abajo] [-lo] pais
+uso: covid.py [-h] [-p provincia] [-pre prefijo] [-suf sufijo] [-ar] [-up flecha arriba] [-dw flecha abajo] [-lo] pais
 
 argumentos posicionales:
    country Especifique el país que desea mostrar.
@@ -61,6 +61,7 @@ Yo lo tengo puesto para "Madrid", ya que en mi provincia no carga la API.
 
 
 ## Créditos.
-[api](https://covid19api.com/)
+De donde carga los datos es de >> [Api](https://covid19api.com/).
+
 [Aquí](https://api.covid19api.com/countries) puede encontrar el país.
 
