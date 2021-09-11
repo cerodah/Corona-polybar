@@ -1,5 +1,5 @@
 # Corona-polybar
-The script shows you the COVID-19 cases in your area.
+El script te muestra los casos de covid en tu area. 
 ## Ejemplo de como se muestra.
 ![screenshoot](Screenshots/desktop.jpg)
 ## Requerimientos
