@@ -1,4 +1,4 @@
-# Corona-polybar
+# Corona-polybar. Deprecated
 El script te muestra los casos de covid en tu area. 
 ## Ejemplo de como se muestra.
 ![screenshoot](Screenshots/desktop.jpg)
