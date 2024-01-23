@@ -1,5 +1,6 @@
 # Corona-polybar. Deprecated
-WARNING: THIS POLYBAR IS DEPRECATED, USE ANOTHER POLYBAR FOR COVID CASES IN YOU AREA
+WARNING: THIS POLYBAR IS DEPRECATED, USE ANOTHER POLYBAR FOR COVID CASES IN YOU AREA.
+
 El script te muestra los casos de covid en tu area. 
 ## Ejemplo de como se muestra.
 ![screenshoot](Screenshots/desktop.jpg)
