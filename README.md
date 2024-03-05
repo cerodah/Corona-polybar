@@ -11,7 +11,7 @@ python3
 ## Instalación y uso.
 
 1. Instala `python3`.
-2. Mueve covid.py a la carpeta en donde tienes tus scripts configurados. (Puede ser distino para cada persona, en mi caso estan en `~/.config/bin`.
+2. Mueve covid.py a la carpeta en donde tienes tus scripts configurados. (Puede ser distinto para cada persona, en mi caso estan en `~/.config/bin`.
 3. Añade el script en la configuracion de tu polybar `~/.config/poybar/config.ini`.
 -     Añade la plabra "corona" a la lista de módulos:
      ![screenshot](Screenshots/2021-09-11_13-09-1631360538.jpg)
